@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/736x/36/8c/14/368c140f34146ff0c6387b0a1f42a672.jpg" alt="MasterHead" width="1200"/>
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">Navigating the complexities of both client and server realms.</h3>
-<!-- <img align="right" alt="Coding" width ="400" src="https://i.pinimg.com/736x/36/8c/14/368c140f34146ff0c6387b0a1f42a672.jpg"> -->
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rai-aman&label=Profile%20views&color=0e75b6&style=flat" alt="rai-aman" /> </p>
 
